@@ -27,7 +27,7 @@ Mirrors: [Forgejo](https://git.spasm.network/spasm-network/spasm-modules) [Codeb
 | [018](018.md) | `reserved` Moderate action | spasm-core | draft |
 | [019](019.md) | `reserved` App config action | spasm-core | draft |
 | [020](020.md) | `reserved` Admin action | spasm-core | draft |
-| [021](021.md) | `reserved` |  | draft |
+| [021](021.md) | `reserved` Encrypted messages | spasm-core | draft |
 | [069](069.md) | `reserved` |  | draft |
 | [137](137.md) | `reserved` |  | draft |
 | [777](777.md) | `reserved` |  | draft |
@@ -41,4 +41,4 @@ Mirrors: [Forgejo](https://git.spasm.network/spasm-network/spasm-modules) [Codeb
 
 # License
 
-All SRM are CC0-1.0
+All SRMs are CC0-1.0
